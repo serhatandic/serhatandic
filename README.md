@@ -21,8 +21,13 @@
 </div>
 
 ### :fire: My Stats :
-
+<div height="40">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatandic&layout=compact&theme=vision-friendly-dark)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serhatandic&layout=compact&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
+  
+</div>
 
 <!--
 **serhatandic/serhatandic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
