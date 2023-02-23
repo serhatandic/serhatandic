@@ -1,4 +1,4 @@
-check out my new project -> metuitiraf.online
+check out my new project -> <a target="_blank" href="https://www.metuitiraf.online">metuitiraf.online</a>
 
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=serhatandic&style=flat-square&color=blue" alt=""/>
