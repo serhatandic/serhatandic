@@ -30,9 +30,17 @@ check out my new project -> <a target="_blank" href="https://www.metuitiraf.onli
 
 <div height="40">
   
+<!--
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=serhatandic&layout=compact&theme=vision-friendly-dark)
-  
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serhatandic&layout=compact&theme=vision-friendly-dark&background=000000)
+-->
+
+![Serhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatandic&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatandic&layout=compact&theme=tokyonight)
+
+  
   
 </div>
 <!--
