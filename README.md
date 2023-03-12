@@ -1,4 +1,4 @@
-check out my resume -> <a target="_blank" href="https://serhat-andic-resume-page.vercel.app/">resume</a>
+check out my resume -> <a target="_blank" href="https://serhatandic.vercel.app/">resume</a>
 
 check out my new project -> <a target="_blank" href="https://www.metuitiraf.online">metuitiraf.online</a>
 
